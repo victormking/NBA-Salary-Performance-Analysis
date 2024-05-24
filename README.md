@@ -1,4 +1,4 @@
-# NBA-Salary-Performance-Analysis
+# NBA Fantasy-Salary-Performance-Analysis
 
 # Economic Efficiency in Fantasy Sports: A Detailed Analysis of NBA Salaries and Performance
 
